@@ -1,0 +1,1 @@
+Proyecto salarios con función, main y pruebas.
